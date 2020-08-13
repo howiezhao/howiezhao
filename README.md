@@ -7,6 +7,9 @@ I'm Howie Zhao, a full stack engineer:
 - 🌱 I’m currently learning Node.js
 - :star: My Gists <https://gist.github.com/howiezhao>
 <!--
+- I'm currently a member of these organizations [NexT](https://github.com/theme-next), [Jazzband](https://github.com/jazzband), [fnpy](https://github.com/fnpy)
+- I'm currently a collaborator on these projects
+- I created these organizations [AKU Soft](https://github.com/akusoft), [Yintrust](https://github.com/yintrust)
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
