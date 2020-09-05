@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-
 I'm Howie Zhao, a full stack engineer:
 
 - 🔭 I’m currently working on [@yintrust](https://github.com/yintrust)
@@ -8,9 +7,9 @@ I'm Howie Zhao, a full stack engineer:
 - :star: My Gists <https://gist.github.com/howiezhao>
 - :key: My Keybase <https://keybase.io/howiezhao>
 <!--
-- I'm currently a member of these organizations [NexT](https://github.com/theme-next), [Jazzband](https://github.com/jazzband), [fnpy](https://github.com/fnpy), [Yintrust](https://github.com/yintrust)
 - I'm currently a collaborator on these projects
-- I created these organizations [AKU Soft](https://github.com/akusoft)
+- Topcoder: <https://www.topcoder.com/members/howiezhao>
+- HackerOne: <https://hackerone.com/howiezhao>
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -22,4 +21,7 @@ I'm Howie Zhao, a full stack engineer:
 -->
 
 [![howiezhao's github stats](https://github-readme-stats.vercel.app/api?username=howiezhao&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<!--
+Inaccurate
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=howiezhao)](https://github.com/anuraghazra/github-readme-stats)
+-->
