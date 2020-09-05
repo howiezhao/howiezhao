@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Codewars Badge](https://www.codewars.com/users/howiezhao/badges/micro)](https://www.codewars.com/users/howiezhao)
+
 I'm Howie Zhao, a full stack engineer:
 
 - 🔭 I’m currently working on [@yintrust](https://github.com/yintrust)
