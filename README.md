@@ -6,8 +6,7 @@ I'm Howie Zhao, a full stack engineer:
 
 - 🔭 I’m currently working on [@yintrust](https://github.com/yintrust)
 - 🌱 I’m currently learning Node.js
-- :star: My Gists <https://gist.github.com/howiezhao>
-- :key: My Keybase <https://keybase.io/howiezhao>
+- 📫 How to reach me: [GitHub Gist](https://gist.github.com/howiezhao), [Keybase](https://keybase.io/howiezhao)
 <!--
 - I'm currently a collaborator on these projects
 - Topcoder: <https://www.topcoder.com/members/howiezhao>
