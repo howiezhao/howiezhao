@@ -4,7 +4,7 @@
 
 I'm Howie Zhao, a full stack engineer:
 
-- 🌱 I’m currently learning Node.js
+- 🌱 I’m currently learning Lua, Scala
 - 📫 How to reach me: [GitHub Gist](https://gist.github.com/howiezhao), [Keybase](https://keybase.io/howiezhao)
 <!--
 - 🔭 I’m currently working on [@yintrust](https://github.com/yintrust)
