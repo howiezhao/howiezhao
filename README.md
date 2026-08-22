@@ -23,7 +23,7 @@ I'm Howie Zhao, a full stack engineer:
 - :hammer: My tools [HowieZhao's liqi](https://howiezhao-liqi.readthedocs.io)
 -->
 
-[![howiezhao's github stats](./profile/stats.svg)](https://github.com/anuraghazra/github-readme-stats)
+[![howiezhao's github stats](./profile/stats.svg)](https://github.com/stats-organization/github-stats-extended)
 <!--
 Inaccurate
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=howiezhao)](https://github.com/anuraghazra/github-readme-stats)
