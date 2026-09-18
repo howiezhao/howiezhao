@@ -5,7 +5,7 @@
 I'm Howie Zhao, a full stack engineer:
 
 - 🌱 I’m currently learning Lua, Scala
-- 📫 How to reach me: [GitHub Gist](https://gist.github.com/howiezhao), [Keybase](https://keybase.io/howiezhao)
+- 📫 How to reach me: [GitHub Gist](https://gist.github.com/howiezhao), [Keybase](https://keybase.io/howiezhao), [Cursor Profile](https://cursor.com/@howiezhao)
 <!--
 - 🔭 I’m currently working on [@yintrust](https://github.com/yintrust)
 - I'm currently a collaborator on these projects
